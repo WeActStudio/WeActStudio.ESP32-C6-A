@@ -16,14 +16,12 @@ C6-Technical Reference Manual：https://www.espressif.com.cn/sites/default/files
 
 C6-Hardware Design Guidelines：https://www.espressif.com.cn/sites/default/files/documentation/esp32-c6_hardware_design_guidelines_en.pdf
 
-
-
 ESP-IDF:HTTPS://GITHUB.COM/ESPRESSIF/ESP-IDF
-
-
 
 ESP32-C6 get-started:
 https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/get-started/
+
+Pin2Pin Development Board:[ESP32-C6-DevKitC-1 &mdash; esp-dev-kits documentation](https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32c6/esp32-c6-devkitc-1/index.html)
 
 [ESP32-C6 Wi-Fi 6 & BLE 5 & Thread/Zigbee SoC | 乐鑫科技 (espressif.com)](https://www.espressif.com/zh-hans/products/socs/esp32-C6)
 
